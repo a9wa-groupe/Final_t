@@ -1,0 +1,94 @@
+# depslib dependency file v1.0
+1588671430 source:c:\users\lenovo\desktop\finale-master\delegation.cpp
+	"Delegation.h"
+	<vector>
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<cstring>
+	<fstream>
+	"Staff.h"
+	<string>
+	"Joueur.h"
+
+1588602848 c:\users\lenovo\desktop\finale-master\delegation.h
+	<vector>
+	<iostream>
+	"Staff.h"
+	"Joueur.h"
+
+1588671430 c:\users\lenovo\desktop\finale-master\staff.h
+	<iostream>
+	<string>
+
+1588671430 c:\users\lenovo\desktop\finale-master\joueur.h
+	<vector>
+	<iostream>
+	<string>
+
+1588671430 source:c:\users\lenovo\desktop\finale-master\groupe.cpp
+	"Groupe.h"
+	<iostream>
+	<string.h>
+	<cstring>
+	<fstream>
+	<string>
+	"Match.h"
+
+1588671430 c:\users\lenovo\desktop\finale-master\groupe.h
+	<iostream>
+	<vector>
+	"Match.h"
+	"Delegation.h"
+
+1588671430 c:\users\lenovo\desktop\finale-master\match.h
+	"Delegation.h"
+
+1588671430 source:c:\users\lenovo\desktop\finale-master\joueur.cpp
+	"Joueur.h"
+	<iostream>
+	<fstream>
+	<string>
+	<cstring>
+
+1588671430 source:c:\users\lenovo\desktop\finale-master\match.cpp
+	"Match.h"
+	"Delegation.h"
+	<string.h>
+	<cstring>
+	<fstream>
+
+1588671430 source:c:\users\lenovo\desktop\finale-master\staff.cpp
+	"Staff.h"
+	<iostream>
+	<fstream>
+	<string>
+	<cstring>
+
+1588764353 source:c:\users\lenovo\desktop\finale-master\competition.cpp
+	<iostream>
+	"Competition.h"
+	"Match.h"
+	<string.h>
+	<cstring>
+	<fstream>
+	"Delegation.h"
+	<string>
+
+1588764353 c:\users\lenovo\desktop\finale-master\competition.h
+	<iostream>
+	"Match.h"
+	"Groupe.h"
+
+1588764353 source:c:\users\lenovo\desktop\finale-master\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	"Joueur.h"
+	"Staff.h"
+	"Delegation.h"
+	"Match.h"
+	"Groupe.h"
+	"Competition.h"
+
